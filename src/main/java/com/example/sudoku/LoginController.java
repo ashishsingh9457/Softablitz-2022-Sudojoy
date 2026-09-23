@@ -36,7 +36,7 @@ public class LoginController {
             user.setId(rs.getString("id"));
 
             Stage stage = new Stage();
-            FXMLLoader fxmlLoader = new FXMLLoader(Init.class.getResource("startPage.fxml"));
+            FXMLLoader fxmlLoader = new FXMLLoader(Init.class.getResource("StartPage.fxml"));
             Scene scene = new Scene(fxmlLoader.load());
             stage.setTitle("Sudoku");
             stage.getIcons().add(new Image(Objects.requireNonNull(Init.class.getResourceAsStream("mainico.png"))));

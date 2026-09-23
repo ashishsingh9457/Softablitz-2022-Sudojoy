@@ -4,6 +4,7 @@ module com.example.sudoku {
     requires de.jensd.fx.glyphs.fontawesome;
     requires de.jensd.fx.glyphs.commons;
     requires java.sql;
+    requires mysql.connector.j;
 
     opens com.example.sudoku to javafx.fxml;
     exports com.example.sudoku;

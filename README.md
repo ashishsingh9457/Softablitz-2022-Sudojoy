@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# MNNIT Softablitz 2022 
+# MNNIT Avishkar Softablitz 2022
 
 <!-- PROJECT LOGO -->
 <br />
@@ -9,6 +9,7 @@
   </a>
 
   <h3 align="center">Sudoko</h3>
+  
 
   <p align="center">
     <a href="mailto:ashish.20208029@mnnit.ac.in?subject = Feedback&body = Message">Report Bug</a>
@@ -108,3 +109,6 @@ Suduku is Desktop based application with different features of awesome sudoku ga
   <br><a href="mailto:ashish.20208029@mnnit.ac.in?subject = Feedback&body = Message">Gmail</a>
   <a href="https://www.linkedin.com/in/ashish-kumar-singh-a689a4208/?subject = Feedback&body = Message">Linkdin</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Certificates
+![Ashish Kumar Singh_Softablitz (Cyberquest)_Third-1_page-0001](https://github.com/user-attachments/assets/3bf2c216-c7b1-4531-a1fd-226e7f601e3c)
